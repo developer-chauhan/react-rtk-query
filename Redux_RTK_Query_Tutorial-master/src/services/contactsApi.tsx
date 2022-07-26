@@ -3,7 +3,7 @@ import { Contact } from '../models/contact.model';
 
 export const contactsApi = createApi({
     reducerPath: "contactsApi",
-    baseQuery: fetchBaseQuery({ baseUrl: "http://localhost:3001/" }),
+    baseQuery: fetchBaseQuery({ baseUrl: "http://localhost:3000/" }),
     tagTypes:['Contact'],
     endpoints:(builder) => ({
         contacts: builder.query<Contact[], void>({
