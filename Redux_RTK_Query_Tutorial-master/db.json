@@ -1,0 +1,22 @@
+{
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Sebastian",
+        "last_name": "Eschweiler",
+        "email": "sebastian@codingthesmartway.com"
+      },
+      {
+        "id": 2,
+        "name": "Steve",
+        "last_name": "Palmer",
+        "email": "steve@codingthesmartway.com"
+      },
+      {
+        "id": 3,
+        "name": "Ann",
+        "last_name": "Smith",
+        "email": "ann@codingthesmartway.com"
+      }
+    ]
+  }
